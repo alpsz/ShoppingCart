@@ -16,6 +16,7 @@
     "express-handlebars": "3.0",
     "express-routers": "^1.0.1",
     "handlebars": "^4.7.6",
+    "mongodb": "^3.6.3",
     "mysql2": "^2.2.5",
     "pub": "^0.2.0",
     "pug": "^3.0.0",
